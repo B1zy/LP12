@@ -1,0 +1,9 @@
+
+//link to tutorial
+https://www.youtube.com/watch?v=aFNDh5k3SjU&list=PLb49csYFtO2Hpfn8eLnaD9tJ0xYcMVcWe
+//things I learned from tutorial
+HSV colorspace
+hue -> this channel will be mostly used in the programm, for storing information about the color of the image and of all the different pixels in the image.
+I have to specify a range or "region" of colors (as two values) which the programm has to recognize and give me all the pixels that correspond to that region.
+saturation
+value
