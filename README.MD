@@ -18,4 +18,5 @@ In this LP I want to try to do a simple computer vision project(that can detect 
 ## 7.11.2025
 - [ ] started image classification tutorial
 
-
+## 14.11.2025
+- [ ] Intership applications submitted
