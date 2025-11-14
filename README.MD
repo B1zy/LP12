@@ -19,4 +19,4 @@ In this LP I want to try to do a simple computer vision project(that can detect 
 - [ ] started image classification tutorial
 
 ## 14.11.2025
-- [ ] Intership applications submitted
+- [ ] sent out Intership applications 
